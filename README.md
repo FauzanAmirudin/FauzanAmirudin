@@ -4,7 +4,7 @@ a student who is interested in technology, I am studying web development especia
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/fauzanamirudin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fauzanamirudin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fauzanamirudin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
