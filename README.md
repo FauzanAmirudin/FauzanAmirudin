@@ -67,6 +67,32 @@
 
 ###
 
+<p align="left">
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=FauzanAmirudin&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=FauzanAmirudin&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="Mahyudeen's GitHub Stats" src="https://ghstats.dev/api/card?username=FauzanAmirudin&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+  </picture>
+  
+  <!-- Top Languages Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=FauzanAmirudin&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=FauzanAmirudin&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="Top Languages" src="https://ghstats.dev/api/langs?username=FauzanAmirudin&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+  </picture>
+</p>
+
+<p align="left">
+  <a href="https://FauzanAmirudin.netlify.app" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=FauzanAmirudind&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=FauzanAmirudin&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=FauzanAmirudin&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280" />
+    </picture>
+  </a>
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FauzanAmirudin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FauzanAmirudin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
