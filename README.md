@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.<br>- 📚 I’m currently learning everything about Frontend and Backend technologies 😅<br>- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>- ⚡ Fun fact: I love to play pool 🎱.</p>
+<p align="left">- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.<br>- 📚 I’m currently learning everything about Frontend and Backend technologies 😅<br>- 💪🏼 Future Goals: Learn more technologies, Never stop creating new ideas.<br>- ⚡ Fun fact: I love to play pool 🎱.</p>
 
 ###
 
